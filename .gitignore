@@ -1,5 +1,4 @@
 # Ignore Ruby Gemfiles
-Gemfile
 Gemfile.lock
 
 # Ignore docs files
