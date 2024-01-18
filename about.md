@@ -13,6 +13,9 @@ redirect_from:
 
 <!--author-->
 
+1. Table of Contents
+{:toc}
+
 # Education
 
 `2017` **Msc.Eng.** from Technical University of Denmark in "*Mathematical Modelling and Computation*""
