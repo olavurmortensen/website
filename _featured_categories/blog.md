@@ -10,7 +10,7 @@ slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-    Musings about tech, the natural world, society, etc.
+  Coming soon ...
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
