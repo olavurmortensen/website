@@ -1,20 +1,24 @@
 ---
 layout: about
-hide_description: false
+hide_description: true
 ---
 
 # Services
 
+Send me an [email](mailto:olavurmortensen@gmail.com) to get a quote.
 
-1. Table of Contents
-{:toc}
+## Big data
+> Harvest your data to get ahead of the curve.
+{:.lead}
 
-I offer XYZ services ...
 
-# Data analysis
+## Complex data
+> Gain key insight through hidden patterns in your complex data.
+{:.lead}
 
-Send me your data and your questions.
 
-# Infrastructure building
+## Infrastructure
+> Let's work together to build the solutions you need.
+{:.lead}
 
-Be it a database or a search engine ...
+
