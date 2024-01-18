@@ -16,13 +16,13 @@ redirect_from:
 1. Table of Contents
 {:toc}
 
-# Education
+## Education
 
 `2017` **Msc.Eng.** from Technical University of Denmark in "*Mathematical Modelling and Computation*""
 
 `2015` **Bsc.Eng.** from Technical University of Denmark in "*Mathematics and Technology*"
 
-# Experience
+## Experience
 
  `January 2022 - December 2023`
 **Kongsberg Discovery, Uncrewed Platforms**
@@ -68,16 +68,16 @@ I assisted in the group work sessions in two terms of a course, teaching first y
 
 Landfill worker, mailman, supermarket clerk.
 
-# Publications
+## Publications
 
 I'm the main author of two peer-reviewed scientific articles.
 
 * **Mortensen, Ó.**,  Thomsen, E., Lydersen, L., Apol, K., Weihe, P., Steig, B., Andorsdóttir, G., Als, T. & Gregersen, N. (2022). FarGen: Elucidating the distribution of coding variants in the isolated population of the Faroe Islands. [DOI](https://doi.org/10.1038/s41431-022-01227-2)
 * **Mortensen, Ó.**, Lydersen, L. N., Apol, K. D., Andorsdóttir, G., Steig, B. á, & Gregersen, N. O. (2019). Using dried blood spot samples from a trio for linked-read whole-exome sequencing. European Journal of Human Genetics. [DOI](https://doi.org/10.1038/s41431-019-0343-3)
 
-# GitHub portfolio
+## GitHub portfolio
 
-## The Author-Topic Model module in Gensim
+### The Author-Topic Model module in Gensim
 
 I developed the `atmodel` module for the Gensim Python library.
 
@@ -87,19 +87,19 @@ Tutorial for the `atmodel` module:
 
 [https://nbviewer.jupyter.org/github/rare-technologies/gensim/blob/develop/docs/notebooks/atmodel_tutorial.ipynb](https://nbviewer.jupyter.org/github/rare-technologies/gensim/blob/develop/docs/notebooks/atmodel_tutorial.ipynb)
 
-## PedGraph
+### PedGraph
 
 A Python library for multi-layer network representation of pedigrees.
 
 [github.com/olavurmortensen/pedgraph](https://github.com/olavurmortensen/pedgraph)
 
-## LinkSeq
+### LinkSeq
 
 A pipeline written in Nextflow to process Next-Generation Sequencing linked-read data and perform germline variant discovery.
 
 [github.com/olavurmortensen/linkseq](https://github.com/olavurmortensen/linkseq)
 
-## HMS Beagle
+### HMS Beagle
 
 A Docker image containing basically everything you need to do bioinformatics. This image is the user environment on the FarGen Cluster.
 
