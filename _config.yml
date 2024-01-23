@@ -51,8 +51,8 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /projects/
+  - title:             Services
+    url:               /services/
   - title:             Résumé*
     url:               /resume/
   - title:             Documentation
@@ -147,7 +147,7 @@ defaults:
   # `jekyll-seo-tag` will mark collection outputs as `BlogPosting`,
   # but we want them to be `WebPage`s:
   - scope:
-      type:            projects
+      type:            services
     values:
       seo:
         type:          WebPage
@@ -301,8 +301,8 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  projects:
-    permalink:         /projects/:path/
+  services:
+    permalink:         /services/:path/
     output:            true
 
 
@@ -417,7 +417,7 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
-    projects:
+    services:
       layout: project
       description: > 
         A short ~160 character description of your post for search engines,
