@@ -1,6 +1,9 @@
 # Ignore Ruby Gemfiles
 Gemfile.lock
 
+# The pro version of the Hydejack Jekyll theme is proprietary and closed source.
+\#jekyll-theme-hydejack
+
 # Ignore docs files
 _gh_pages
 _site
