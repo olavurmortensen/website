@@ -53,7 +53,7 @@ menu:
     url:               /blog/
   - title:             Services
     url:               /services/
-  - title:             Résumé*
+  - title:             Resumé
     url:               /resume/
   - title:             Documentation
     url:               /docs/
