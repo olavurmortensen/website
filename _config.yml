@@ -57,12 +57,8 @@ menu:
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
-  - title:             LICENSE
-    url:               /LICENSE/
-  - title:             NOTICE
-    url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+    #- title:             LICENSE
+    #  url:               /LICENSE/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2024. All rights reserved.
@@ -401,25 +397,19 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+      description:
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+      description:
       image:
         path: /assets/img/sidebar-bg.jpg
     services:
       layout: project
-      description: > 
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
+      description:
       image:
         path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+        #links:
+        #  - title: Project Link
+        #    url: https://example.com
