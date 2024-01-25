@@ -11,8 +11,6 @@ redirect_from:
 
 # Resumé
 
-<!--author-->
-
 1. Table of Contents
 {:toc}
 
