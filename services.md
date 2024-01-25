@@ -2,6 +2,7 @@
 layout: projects
 title: Services
 show_collection: services
+featured: true
 no_groups: true
 ---
 
