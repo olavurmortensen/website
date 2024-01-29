@@ -12,4 +12,3 @@ projects_page: services.md
 
 Considering hiring me for a project? Head over to the [services](/services) page to learn more.
 
-<!--projects-->
