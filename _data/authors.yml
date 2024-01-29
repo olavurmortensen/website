@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    My name is Ólavur Mortensen. I’m an engineer with a background in applied mathematics and experience in machine learning, bioinformatics, and robotics. I love learning new things, and my broad background has given me the ability to learn to understand complex technologies quickly. Nature is my biggest inspiration, and I therefore aspire to contribute to a sustainable future.
+    My name is Ólavur Mortensen, I'm a mathematician by training and software engineer by trade. I have a solid theoretical background in algorithmic development in machine learning, and have had the priviledge to apply this knowledge in a wide range of applications. From working with human genetics in a small research group, to autonomous navigation in underwater robotics in a large international company, I have gained a broad skillset over the years.
 
   # This photo will be used in the about section
   picture:

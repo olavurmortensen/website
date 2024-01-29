@@ -62,10 +62,6 @@ Together with another student, I worked on a project exploring the possibilities
 
 I assisted in the group work sessions in two terms of a course, teaching first year engineering students introductory programming in MatLab. I also graded reports in this course, which served as the students' exams.
 
-**Other jobs**
-
-Landfill worker, mailman, supermarket clerk.
-
 ## Publications
 
 I'm the main author of two peer-reviewed scientific articles.
